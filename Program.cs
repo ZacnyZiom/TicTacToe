@@ -4,6 +4,7 @@ internal class Program
     private static void Main(string[] args)
     {
         PrintBoard();
+        PrintBoard();
     }
 
     private static void PrintBoard()

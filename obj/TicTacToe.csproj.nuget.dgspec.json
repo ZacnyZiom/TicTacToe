@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PRACA\\PRACA - NAU\\2025-26\\CSharpTest\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\sokolp\\Desktop\\tictactoe\\TicTacToe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "F:\\PRACA\\PRACA - NAU\\2025-26\\CSharpTest\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\sokolp\\Desktop\\tictactoe\\TicTacToe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PRACA\\PRACA - NAU\\2025-26\\CSharpTest\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\sokolp\\Desktop\\tictactoe\\TicTacToe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "F:\\PRACA\\PRACA - NAU\\2025-26\\CSharpTest\\TicTacToe\\TicTacToe.csproj",
-        "packagesPath": "C:\\Users\\Jedenastka\\.nuget\\packages\\",
-        "outputPath": "F:\\PRACA\\PRACA - NAU\\2025-26\\CSharpTest\\TicTacToe\\obj\\",
+        "projectPath": "C:\\Users\\sokolp\\Desktop\\tictactoe\\TicTacToe\\TicTacToe.csproj",
+        "packagesPath": "C:\\Users\\sokolp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sokolp\\Desktop\\tictactoe\\TicTacToe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jedenastka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sokolp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
