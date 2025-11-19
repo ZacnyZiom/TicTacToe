@@ -5,6 +5,7 @@ internal class Program
     {
         PrintBoard();
         PrintBoard();
+        PrintBoard();
     }
 
     private static void PrintBoard()
